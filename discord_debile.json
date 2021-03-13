@@ -1,11 +1,12 @@
 {
-    "test": "ok",
-    "debile": [
-      {"id":"634766934486810624",
-       "nicks": [
-         "sterzi"
-        ],
-        "why": "Jest debilem bo tak."
+   "test":"ok",
+   "debile":{
+      "634766934486810624":{
+         "id":"634766934486810624",
+         "nicks":[
+            "sterzi"
+         ],
+         "why":"Jest debilem bo tak."
       }
-    ]
-  }
+   }
+}
